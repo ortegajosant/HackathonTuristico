@@ -13,17 +13,16 @@
 								<span class="icon-bar"></span>
 							</button>
 							<!-- Brand -->
-							<a class="navbar-brand page-scroll" href="#page-top"><img src="{{asset("assets/img/logo2.png")}}" alt=""></a>
-							<a class="navbar-brand page-scroll sticky-logo" href="#page-top"><img src="{{asset("assets/img/logo.png")}}" alt=""></a>
+							
 						</div>
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
 							<ul class="nav navbar-nav navbar-right">
 								<li class="active">
-									<a class="page-scroll" href="#home">Home</a>
+									<a class="page-scroll" href="#home">Inicio</a>
 								</li>
 								<li>
-									<a class="page-scroll" href="#about">About</a>
+									<a class="page-scroll" href="#about">Nosotros</a>
 								</li>		              	
 								<li>
 									<a class="page-scroll" href="#portfolio">Portfolio</a>
