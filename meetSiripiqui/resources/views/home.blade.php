@@ -9,19 +9,21 @@
 		<div class="row">
 			<div class="col-md-12 col-sm-12 col-xs-12 text-center">
 				<div class="header-bottom">
-					<h3 class="helo">Bienvenido</h3>
 					<h1>SARAPIQUÍ</h1>
-
 				</div>
 			</div>
 			<div class="col-md-12 col-sm-12 col-xs-12 text-center" style='bottom: 0;'>
 				<div class="header-bottom">
 
 					<div class="text-center">
-						<h6 class="helo">Conozca más...</h6>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+						<h6 class="helo">Conozca más</h6>
 						<a class="page-scroll" href="#about" style="color:white;"><i class="fa fa-chevron-down"></i></a>
-
-
 					</div>
 				</div>
 			</div>
@@ -108,7 +110,7 @@
 					</div>
 					<div class="child text-left">
 						<p>
-							<strong> ! Vive la adrenalina de la velocidad ¡ </strong>
+							<h3>¡Vive la adrenalina de la velocidad!</h3>
 						</p>
 					</div>
 
