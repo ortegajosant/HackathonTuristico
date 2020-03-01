@@ -9,8 +9,8 @@
 					<div class="row">
 						<div class="col-md-12 col-sm-12 col-xs-12 text-center">
 							<div class="header-bottom">
-								<h3 class="helo">Hello, i'm</h3>
-								<h1>Harrison Hoper</h1>
+								<h3 class="helo">Bienvenido</h3>
+								<h1>SARAPIQUÍ</h1>
 								<div class="header-icons text-center">
 									<ul>
 										<li>
