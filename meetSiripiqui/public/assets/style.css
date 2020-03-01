@@ -300,7 +300,7 @@ header .row {
 }
 .header-overlay {
   position: absolute;
-  background: rgba(0, 0, 0, 0.45);
+
   top: 0;
   width: 100%;
   left: 0;
