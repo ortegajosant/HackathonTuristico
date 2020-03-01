@@ -57,7 +57,8 @@
 							El nombre de la zona proviene del río que lo recorre.
 						</p>
 						<p>
-							En la campaña nacional de 1856-1857 contra los filibusteros, el grupo nacional liderado por Máximo Blanco bloqueo el paso de los invasores por el río Sarapiquí.
+							En la campaña nacional de 1856-1857 contra los filibusteros, el grupo nacional liderado por Máximo Blanco
+							bloqueo el paso de los invasores por el río Sarapiquí.
 						</p>
 					</div>
 
@@ -132,7 +133,7 @@
 <div class="add-area area-margin">
 	<div class="header-overlay"></div>
 	<div class="container">
-	<div class="row fix" style="margin-top:10%;">
+		<div class="row fix" style="margin-top:10%;">
 			<div class="col-md-12 col-sm-12 col-xs-12">
 				<div class="section-head text-center">
 					<strong>
