@@ -1383,6 +1383,17 @@ span.email-notes{
   -moz-box-shadow: 0px -1px 17px 0px rgb(0, 0, 0);
   box-shadow: 0px -1px 17px 0px rgb(0, 0, 0);
 }
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+
+}
+
+.scrolling-wrapper .card{
+  display: inline-block;
+}
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
