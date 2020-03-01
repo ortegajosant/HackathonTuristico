@@ -44,18 +44,24 @@
 				</div>
 				<div class="row fix">
 					
-					<div class="col-md-6 col-sm-7 col-xs-12">
+					<div class="col-md-4 col-sm-5 col-xs-12">
 						<!-- about-self -->
 						<div class="about-self">
 							<div class="self-head">
 								<p>
-								Habitado en épocas prehispánicas por el  grupo indígena de los Botos. El nombre de la zona proviene del río que lo recorre. En la campaña nacional de 1856-1857 contra los filibusteros, el grupo nacional liderado por Máximo Blanco bloqueo el paso de los invasores por el río Sarapiquí.
+								Habitado en épocas prehispánicas por el  grupo indígena de los Botos. 
+								</p>
+								<p>
+								El nombre de la zona proviene del río que lo recorre. 
+								</p>
+								<p>
+								En la campaña nacional de 1856-1857 contra los filibusteros, el grupo nacional liderado por Máximo Blanco bloqueo el paso de los invasores por el río Sarapiquí.
 								</p>
 							</div>
 						</div>
 						<!-- end about-self -->
 					</div>
-					<div class="col-md-offset-1 col-md-4 col-sm-5 col-xs-12">
+					<div class="col-md-offset-2 col-md-6 col-sm-7 col-xs-12">
 						<div class="self-img">
 							<a href="#">
 								<img src="{{asset("assets/images/about.jpg")}}" alt="">
