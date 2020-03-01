@@ -1,3 +1,3 @@
-<div class="footer-area text-center">
+<div class="text-center">
 		  
-		</div>
+</div>
