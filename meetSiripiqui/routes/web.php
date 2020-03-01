@@ -27,3 +27,7 @@ Route::get('/myEnterprise', function () {
     return view('myEnterprise');
 });
 
+Route::get('/touristRoute', function () {
+    return view('touristRoute');
+});
+

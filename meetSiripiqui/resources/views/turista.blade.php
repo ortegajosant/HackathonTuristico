@@ -102,7 +102,7 @@
 			</div>
 			<div class='text-center' style='bottom: 0; z-index: 100; '>
 				<div >
-					<a class="add-btn left-btn" style="color:black;" href="/myEnterprise">Continuar</a>
+					<a class="add-btn left-btn" style="color:black;" href="/touristRoute">Continuar</a>
 
 				</div>
 			
