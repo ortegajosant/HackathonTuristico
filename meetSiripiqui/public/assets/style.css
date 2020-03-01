@@ -1368,6 +1368,13 @@ span.email-notes{
 	border: 1px solid #252525;
 	color: #fff;
 }
+.card-data  img{
+  transition: transform .2s;
+}
+
+.card-data :hover img{
+  transform: scale(1.5);
+}
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
