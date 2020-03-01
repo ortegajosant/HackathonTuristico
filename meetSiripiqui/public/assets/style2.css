@@ -249,7 +249,6 @@ header {
   background: none;
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #fff;
 	width: 30px;
 	height: 2px;
 }
@@ -1370,6 +1369,21 @@ span.email-notes{
 
 .round-img{
   border-radius: 15px;
+}
+
+.carousell-img{
+  max-width: 512px;
+  max-height: 339px;
+}
+
+.carousell-card {
+  max-width: 250px;
+}
+
+.carousell-card img {
+  max-height: 100%;
+  max-width: 80%;
+  border-radius: 5px;
 }
 /*----------------------------------------
  .End CSS
