@@ -20,7 +20,7 @@
 				<div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
 					<ul class="nav navbar-nav navbar-right">
 						<li class="active">
-							<a class="page-scroll" href="#home">Inicio</a>
+							<a class="page-scroll" href="/">Inicio</a>
 						</li>
 						<li>
 							<a class="page-scroll" href="#about">Nosotros</a>
@@ -29,7 +29,7 @@
 							<a class="page-scroll" href="#about">Turista</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#portfolio">Comerciante</a>
+							<a class="page-scroll" href="/enterprises">Comerciante</a>
 						</li>
 					</ul>
 				</div>

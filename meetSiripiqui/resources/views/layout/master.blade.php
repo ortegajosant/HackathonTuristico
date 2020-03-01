@@ -44,6 +44,8 @@
     <body data-spy="scroll" data-target="#navbar-example">
         @yield('content')
 
+		@include('layout.footer')
+
        <!-- jquery latest version -->
 		<script src="{{asset("assets/js/vendor/jquery-1.12.4.min.js")}}"></script>
 		<!-- bootstrap js -->
