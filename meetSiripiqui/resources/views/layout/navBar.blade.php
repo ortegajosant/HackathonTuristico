@@ -24,9 +24,6 @@
 							<a class="page-scroll" href="/">Inicio</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">Nosotros</a>
-						</li>
-						<li>
 							<a class="page-scroll" href="/tourist">Turista</a>
 						</li>
 						<li>

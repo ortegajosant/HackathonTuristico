@@ -199,7 +199,7 @@ header {
 	text-transform: capitalize;
 }
 .main-menu ul.navbar-nav li.active a::after {
-	border: 1px solid #fff;
+	/*border: 1px solid #fff;*/
 	bottom: 37px;
 	content: "";
 	left: 0;
@@ -348,7 +348,7 @@ header .row {
   text-transform: capitalize;
 }
 .stick .main-menu ul.navbar-nav li.active a::after {
-border: 1px solid #252525;
+/*border: 1px solid #252525;*/
   bottom: 40px;
   content: "";
   left: 0;
