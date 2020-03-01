@@ -19,7 +19,7 @@
 
 					<div class="text-center">
 						<h6 class="helo">Conozca más...</h6>
-						<a class="page-scroll" href="#about"><i class="fa fa-chevron-down"></i></a>
+						<a class="page-scroll" href="#about" style="color:white;"><i class="fa fa-chevron-down"></i></a>
 
 
 					</div>
