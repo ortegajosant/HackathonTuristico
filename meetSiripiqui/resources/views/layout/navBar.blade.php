@@ -1,4 +1,4 @@
-<header style=''>
+<header>
 	<!-- Start Top Header -->
 	<div id="sticker" class="header-area">
 		<div class="container">
@@ -26,7 +26,7 @@
 							<a class="page-scroll" href="#about">Nosotros</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">Turista</a>
+							<a class="page-scroll" href="/turista">Turista</a>
 						</li>
 						<li>
 							<a class="page-scroll" href="/enterprises">Comerciante</a>

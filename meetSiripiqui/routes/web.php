@@ -19,6 +19,10 @@ Route::get('/enterprises', function () {
     return view('enterprises');
 });
 
+Route::get('/turista', function () {
+    return view('turista');
+});
+
 Route::get('/myEnterprise', function () {
     return view('myEnterprise');
 });

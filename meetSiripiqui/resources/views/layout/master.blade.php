@@ -63,6 +63,7 @@
 		<script src="{{asset("assets/js/plugins.js")}}"></script>
 		<!-- main js -->
 		<script src="{{asset("assets/js/main.js")}}"></script>
+		<script src="{{asset("assets/js/funciones.js")}}"></script>
        
        
        @yield('script')
