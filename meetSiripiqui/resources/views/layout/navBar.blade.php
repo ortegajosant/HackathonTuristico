@@ -27,7 +27,7 @@
 							<a class="page-scroll" href="#about">Nosotros</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="/turista">Turista</a>
+							<a class="page-scroll" href="/tourist">Turista</a>
 						</li>
 						<li>
 							<a class="page-scroll" href="/enterprises">Comerciante</a>
