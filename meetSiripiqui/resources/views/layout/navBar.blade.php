@@ -30,7 +30,7 @@
 							<a class="page-scroll" href="/turista">Turista</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="/tourDetail">Comerciante</a>
+							<a class="page-scroll" href="/enterprises">Comerciante</a>
 						</li>
 					</ul>
 				</div>
