@@ -17,19 +17,24 @@
 
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1 text-center" id="navbar-example">
-                    <ul class="nav navbar-nav navbar-center">
-                        <li class="active">
-                            <a class="page-scroll" href="/">Inicio</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="/turista">Turista</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="/enterprises">Comerciante</a>
-                        </li>
-                    </ul>
-                </div>
+
+				<div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1 text-center" id="navbar-example">
+					<ul class="nav navbar-nav navbar-center">
+						<li class="active">
+							<a class="page-scroll" href="/">Inicio</a>
+						</li>
+						<li>
+							<a class="page-scroll" href="#about">Nosotros</a>
+						</li>
+						<li>
+							<a class="page-scroll" href="/turista">Turista</a>
+						</li>
+						<li>
+							<a class="page-scroll" href="/enterprises">Comerciante</a>
+						</li>
+					</ul>
+				</div>
+
 				<!-- navbar-collapse -->
 			</nav>
 			<!-- END: Navigation -->

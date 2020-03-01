@@ -31,13 +31,24 @@
 		<!-- responsive css -->
 		<link rel="stylesheet" href="{{asset("assets/css/responsive.css")}}">
 		<!-- modernizr css -->
-        <script src="{{asset("assets/js/vendor/modernizr-2.8.3.min.js")}}"></script>
+		<script src="{{asset("assets/js/vendor/modernizr-2.8.3.min.js")}}"></script>
+		
         
 
         
         @yield('styles')
 
-        
+        <style> 
+  	#map {
+        height: 100%;
+        }
+     
+        html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        }
+	</style>
     
     </head>
 
@@ -64,6 +75,7 @@
 		<!-- main js -->
 		<script src="{{asset("assets/js/main.js")}}"></script>
 		<script src="{{asset("assets/js/funciones.js")}}"></script>
+		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCEevEA-WAbOGx1CqeXmz0mzc7r7TV9eA&callback=initMap" type="text/javascript"></script>
        
        
        @yield('script')
