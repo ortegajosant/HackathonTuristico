@@ -23,6 +23,10 @@ Route::get('/turista', function () {
     return view('turista');
 });
 
+Route::get('/tourDetail', function () {
+    return view('tourDetail');
+});
+
 Route::get('/myEnterprise', function () {
     return view('myEnterprise');
 });

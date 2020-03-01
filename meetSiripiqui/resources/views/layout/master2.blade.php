@@ -28,6 +28,7 @@
 	<link rel="stylesheet" href="{{asset("assets/css/venobox.css")}}">
 	<!-- style css -->
 	<link rel="stylesheet" href="{{asset("assets/style2.css")}}">
+	
 	<!-- responsive css -->
 	<link rel="stylesheet" href="{{asset("assets/css/responsive2.css")}}">
 	<link rel="stylesheet" type="text/css" href="{{asset("assets/slick/slick.css")}}"/>
@@ -61,8 +62,8 @@
 	<script src="{{asset("assets/js/plugins.js")}}"></script>
 	<!-- main js -->
 	<script src="{{asset("assets/js/main.js")}}"></script>
+	<script src="{{asset("assets/js/funciones.js")}}"></script>
 
-	<script type="text/javascript" src="{{asset("assets/slick/slick.min.js")}}"></script>
 
 
 	@yield('script')
