@@ -14,9 +14,10 @@
 						<span class="icon-bar"></span>
 					</button>
 					<!-- Brand -->
-					
+
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
+
 				<div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1 text-center" id="navbar-example">
 					<ul class="nav navbar-nav navbar-center">
 						<li class="active">
@@ -33,6 +34,7 @@
 						</li>
 					</ul>
 				</div>
+
 				<!-- navbar-collapse -->
 			</nav>
 			<!-- END: Navigation -->

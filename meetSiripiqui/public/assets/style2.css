@@ -1377,13 +1377,55 @@ span.email-notes{
 }
 
 .carousell-card {
-  max-width: 250px;
+  max-height: 512px;
+  max-width: 200px;
+  height: 100% !important;
+  width: 80% !important;
+  text-align: center;
+}
+
+.carousell-card-btn {
+  max-height: 200px;
+  max-width: 200px;
+  height: 150px !important;
+  width: 250px !important;
+  text-align: center;
 }
 
 .carousell-card img {
   max-height: 100%;
-  max-width: 80%;
+  max-width: 90%;
+  height: 100% !important;
+  width: 85% !important;
   border-radius: 5px;
+  margin: auto auto;
+}
+
+.carousell-card-btn button {
+  height: 75% !important;
+  width: 90% !important;
+  border-radius: 5px;
+}
+
+.profile-card {
+  max-height: 200px;
+  max-width: 200px;
+  height: 512px;
+  width: 339;
+  text-align: center;
+
+}
+
+.profile-card img {
+  max-height: 100%;
+  max-width: 100%;
+  border-radius: 10px;
+  margin: auto auto;
+  border-radius: 50%;
+}
+
+.img-card-sm{
+  
 }
 .card-data  img{
   transition: transform .2s;
