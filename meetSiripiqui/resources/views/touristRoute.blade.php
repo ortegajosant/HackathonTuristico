@@ -15,68 +15,85 @@
       </div>
 
       <div class="col-12">
-        <div class="col-md-2 col-sm-2 col-xs-12 card-data">
-          <div class="about-details">
-            <div class="single-about">
-              <div style='margin-bottom:20px;'>
-                <img class="" src="{{asset("assets/images/t11.png")}}" alt="70%" style="border-radius: 10%;">
-              </div>
-              <h5 class="text-center" style="color:black">Actividad</h5>
-            </div>
-          </div>
-          <!-- end about-details -->
-        </div>
+        <p>
+          <h4>Opción 1</h4>
+        </p>
+        <br>
 
-        <div class="col-md-2 col-sm-2 col-xs-12 card-data">
+        <a class="col-md-2 col-sm-2 col-xs-12 card-data" href="/tour">
           <div class="about-details">
             <div class="single-about">
               <div style='margin-bottom:20px;'>
                 <img src="{{asset("assets/images/t3.png")}}" style="border-radius: 10%;" alt="Cultura">
               </div>
-              <h5 class="text-center" style="color:black">Cultura</h5>
-
-            </div>
-          </div>
-          <!-- end about-details -->
-        </div>
-
-        <div class="col-md-2 col-sm-2 col-xs-12 card-data">
-          <div class="about-details">
-            <div class="single-about">
-              <div style='margin-bottom:20px; ' >
-                <img src="{{asset("assets/images/t4.png")}}" alt="Restaurantes" style="border-radius: 10%;">
+              <div>
+                <h5 class="text-center" style="color:black">Culturales</h5>
+                <p class="text-center"><span>Parque </span> <br> 08:00 - 09:30 </p>
               </div>
-              <h5 class="text-center" style="color:black">Restaurantes</h5>
-
             </div>
           </div>
           <!-- end about-details -->
-        </div>
+        </a>
 
-        <div class="col-md-2 col-sm-2 col-xs-12 card-data">
+        <a class="col-md-2 col-sm-2 col-xs-12 card-data" href="/tour">
           <div class="about-details">
             <div class="single-about">
-              <div style='margin-bottom:20px;' >
+              <div style='margin-bottom:20px;'>
+                <img class="" src="{{asset("assets/images/t11.png")}}" alt="70%" style="border-radius: 10%;">
+              </div>
+              <div>
+                <h5 class="text-center" style="color:black">Rafting</h5>
+                <p class="text-center"><span>Río Sarapiquí </span> <br> 10:30 - 13:00 </p>
+              </div>
+            </div>
+          </div>
+          <!-- end about-details -->
+        </a>
+
+        <a class="col-md-2 col-sm-2 col-xs-12 card-data" href="/tour">
+          <div class="about-details">
+            <div class="single-about">
+              <div style='margin-bottom:20px;'>
                 <img src="{{asset("assets/images/t2.png")}}" style="border-radius: 10%;" alt="Restaurantes">
               </div>
-              <h5 class="text-center" style="color:black">Cultivos</h5>
-
+              <div>
+                <h5 class="text-center" style="color:black">Rural</h5>
+                <p class="text-center"><span>Finca Sarapiquí </span> <br> 14:00 - 15:30 </p>
+              </div>
             </div>
           </div>
           <!-- end about-details -->
-        </div>
+        </a>
 
-        <div class="col-md-2 col-sm-2 col-xs-12 card-data">
+        <a class="col-md-2 col-sm-2 col-xs-12 card-data" href="/tour">
           <div class="about-details">
             <div class="single-about">
               <div style='margin-bottom:20px;'>
                 <img src="{{asset("assets/images/t5.jpg")}}" style="border-radius: 10%;" alt="Aves">
               </div>
-              <h5 class="text-center" style="color:black">Aves</h5>
+              <div>
+                <h5 class="text-center" style="color:black">Avistamiento</h5>
+                <p class="text-center"><span>Corredor Biológico </span> <br> 16:00 - 17:30 </p>
+              </div>
             </div>
           </div>
           <!-- end about-details -->
-        </div>
+        </a>
+
+        <a class="col-md-2 col-sm-2 col-xs-12 card-data" href="/tour">
+          <div class="about-details">
+            <div class="single-about">
+              <div style='margin-bottom:20px; '>
+                <img src="{{asset("assets/images/t4.png")}}" alt="Restaurantes" style="border-radius: 10%;">
+              </div>
+              <div>
+                <h5 class="text-center" style="color:black">Estadía</h5>
+                <p class="text-center"><span>Hotel Sarapiquí </span> <br> 19:00 </p>
+              </div>
+            </div>
+          </div>
+          <!-- end about-details -->
+        </a>
 
         <br>
         <br>
@@ -85,9 +102,10 @@
           <a class="add-btn left-btn mt-auto mb-auto" style="color:black;" href="/tourDetail">Explorar</a>
         </div>
       </div>
+
       <br>
       <hr>
-      
+
     </div>
 
 
